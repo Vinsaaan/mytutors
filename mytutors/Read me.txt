@@ -1,0 +1,38 @@
+Total 4 types of users (Admin, Tutor, Professor, Student)
+
+//Admin User
+ID: admin
+Password: 123
+
+//Tutor User
+ID: tutor1
+Password: 123
+
+ID: tutor2
+Password: 123
+
+ID: tutor3
+Password: 123
+
+ID: tutor4
+Password: 123
+
+//Professor User
+ID: professor
+Password: 123
+
+//Student User
+ID: student1
+Password: 123
+
+ID: student2
+Password: 123
+
+ID: student3
+Password: 123
+
+ID: student4
+Password: 123
+
+ID: student5
+Password: 123
